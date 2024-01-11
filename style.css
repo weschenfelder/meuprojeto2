@@ -1,0 +1,53 @@
+body {
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+#mundo img {
+    width: 350px;
+    margin: 0 auto 30px;
+
+}
+
+h1 {
+    font-size: 32px;
+    line-height: normal;
+}
+
+#destin {
+    color: #EE24FF;
+}
+
+p {
+color: #3F3D56;
+font-family: Dosis, sans-serif;
+font-size: 15px;
+line-height: 22px;
+}
+#line {
+    width: 568px;
+    height: 0px;
+    margin: 0 auto 20px;
+    border: 1px solid #ECEFF2;
+}
+#footer1 img {
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    width: 100%;
+    height: 104px;
+}
+#button a {
+    font-family: Open Sans, sans-serif;
+    text-decoration: none;
+    color: #3F3D56;
+    font-size: 15px;
+    line-height: 28px;
+    margin-bottom: 20px;
+}
+a+a {
+    margin-left: 28px;
+
+}
